@@ -1,0 +1,13 @@
+[
+  {
+    "target_id": "func",
+    "target_positioin": 1,
+    "text": "text",
+    "answer": 0,
+    "count": 2,
+    "scope": 3,
+    "use_answer_selection_count": false,
+    "use_answer_selection_scope": false,
+    "use_question_selection_count": false
+  }
+]
