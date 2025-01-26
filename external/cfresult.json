@@ -1,0 +1,30 @@
+﻿{
+  "type": "result",
+  "func_suggestions": 
+  {
+    "Ti": [],
+    "Fi": [],
+    "Si": [],
+    "Ni": [],
+    "Te": [],
+    "Se": [],
+    "Fe": [],
+    "Ne": []
+  },
+  
+  "axes_suggestions" : 
+  {
+    "NiSe": "float64",
+    "NeSi": "float64",
+    "TiFe": "float64",
+    "TeFi": "float64"
+  },
+  
+  "details" : 
+  {
+    "answer_selection_scope": "int32",
+    "answer_selection_count": "int32",
+    "answer_selection_mid": "float64",
+    "question_selection_count": "int32"
+  }
+}
